@@ -1,0 +1,27 @@
+Srikanth Sir-Spokesperson
+Amarnath Sir
+---------------------------------
+Web Development
+
+
+Web Browsers
+Clients(query)->Server->Data
+Server->is a computer which get the request and give the response.
+Database->Collection of data where setup at one place.
+
+What we learn?
+
+
+What is Internet?
+Collection of Websites.
+
+Front-End Languages
+HTML,CSS,JS
+
+
+Today class
+HTML
+1.Heading Tag
+2.Comments
+3.Image Tag(Standlone Tag)
+4.Video Tag or iframe Tag
